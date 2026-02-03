@@ -1,0 +1,19 @@
+/* Publice Service Announcment: Dorm Bathroom Ettiquette*/
+/* Grant Peverett & Samuel Roberson & Tarika Purbhoo*/
+/*  myStyles.css  */
+
+body{
+	color: navy;
+}
+
+h1{
+	color: crimson;
+}
+
+h2{
+	font-style: italic;
+}
+
+.highlight {
+	background-color: red;
+}
